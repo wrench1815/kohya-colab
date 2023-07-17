@@ -6,10 +6,10 @@ If you like my work consider [leaving me a tip](https://ko-fi.com/holostrawberry
 
 | |🇬🇧 English|🇪🇸 Spanish|
 |:--|:-:|:-:|
-| 📊 **Dataset Maker** | [![Open in Colab](https://raw.githubusercontent.com/hollowstrawberry/kohya-colab/main/assets/colab-badge.svg)](https://colab.research.google.com/github/hollowstrawberry/kohya-colab/blob/main/Dataset_Maker.ipynb) | [![Abrir en Colab](https://raw.githubusercontent.com/hollowstrawberry/kohya-colab/main/assets/colab-badge-spanish.svg)](https://colab.research.google.com/github/hollowstrawberry/kohya-colab/blob/main/Spanish_Dataset_Maker.ipynb) |
-| ⭐ **Lora Trainer** | [![Open in Colab](https://raw.githubusercontent.com/hollowstrawberry/kohya-colab/main/assets/colab-badge.svg)](https://colab.research.google.com/github/hollowstrawberry/kohya-colab/blob/main/Lora_Trainer.ipynb) | [![Abrir en Colab](https://raw.githubusercontent.com/hollowstrawberry/kohya-colab/main/assets/colab-badge-spanish.svg)](https://colab.research.google.com/github/hollowstrawberry/kohya-colab/blob/main/Spanish_Lora_Trainer.ipynb) |
+| 📊 **Dataset Maker** | [![Open in Colab](https://raw.githubusercontent.com/wrench1815/kohya-colab/old/assets/colab-badge.svg)](https://colab.research.google.com/github/wrench1815/kohya-colab/blob/old/Dataset_Maker.ipynb) | [![Abrir en Colab](https://raw.githubusercontent.com/wrench1815/kohya-colab/old/assets/colab-badge-spanish.svg)](https://colab.research.google.com/github/wrench1815/kohya-colab/blob/old/Spanish_Dataset_Maker.ipynb) |
+| ⭐ **Lora Trainer** | [![Open in Colab](https://raw.githubusercontent.com/wrench1815/kohya-colab/old/assets/colab-badge.svg)](https://colab.research.google.com/github/wrench1815/kohya-colab/blob/old/Lora_Trainer.ipynb) | [![Abrir en Colab](https://raw.githubusercontent.com/wrench1815/kohya-colab/old/assets/colab-badge-spanish.svg)](https://colab.research.google.com/github/wrench1815/kohya-colab/blob/old/Spanish_Lora_Trainer.ipynb) |
 | **Lora making Guide** | [Click Here](https://civitai.com/models/22530) | - |
-| **Stable Diffusion guide** | [Click Here](https://huggingface.co/hollowstrawberry/stable-diffusion-guide/blob/main/README.md#index) | [Click Aquí](https://huggingface.co/hollowstrawberry/stable-diffusion-guide/blob/main/spanish.md#index) |
+| **Stable Diffusion guide** | [Click Here](https://huggingface.co/wrench1815/stable-diffusion-guide/blob/old/README.md#index) | [Click Aquí](https://huggingface.co/wrench1815/stable-diffusion-guide/blob/old/spanish.md#index) |
 
 ### 📊 Dataset Maker - Features
 
